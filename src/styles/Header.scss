@@ -1,0 +1,27 @@
+.shimmer {
+    display: inline-block;
+    color: white;
+    background: #000 -webkit-gradient(linear, 100% 0, 0 0, from(#000), color-stop(0.5, #ffffff), to(#000));
+    background-position: -4rem top;
+    background-repeat: no-repeat;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation-name: shimmer;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    background-size: 4rem 100%;
+}
+
+@keyframes shimmer {
+    0% {
+        background-position: -4rem top;
+    }
+
+    70% {
+        background-position: 32.5rem top;
+    }
+
+    100% {
+        background-position: 32.5rem top;
+    }
+}

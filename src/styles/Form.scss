@@ -1,0 +1,65 @@
+@import './variables.scss';
+
+.form {
+    margin: 10px auto;
+    padding: 20px;
+    padding-left: 50px;
+    background: $form-color;
+    box-shadow: -3px 3px 2px rgb(189, 186, 186);
+    max-width: 600px;
+    text-align: left;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(56, 105, 11);
+}
+
+.form-items {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: flex;
+
+    &:last-child {
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+label {
+    flex: 0 0 110px;
+}
+
+.btnSubmit {
+    padding: 5px 10px;
+    margin-top: 15px;
+    text-align: center;
+    background: rgb(56, 105, 11);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    letter-spacing: 0.2em;
+    cursor: pointer;
+
+    &:disabled {
+        background: rgb(182, 179, 179);
+        opacity: 0.5;
+        cursor: auto;
+    }
+}
+
+.inputEqualWidth {
+    width: 350px;
+    padding: 5px;
+    margin-left: 15px;
+    border-radius: 2px;
+}
+
+.redBorder {
+    border: 2px solid red;
+    width: 350px;
+    padding: 5px;
+    margin-left: 15px;
+    border-radius: 2px;
+}

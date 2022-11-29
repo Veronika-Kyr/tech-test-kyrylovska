@@ -1,0 +1,132 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "John",
+      "lastName": "Grey",
+      "email": "grey@gmail.com",
+      "age": "30",
+      "phoneNumber": "0997774455"
+    },
+    {
+      "id": "2",
+      "firstName": "Jane",
+      "lastName": "White",
+      "email": "janew@gmail.com",
+      "age": "31",
+      "phoneNumber": "0997524455"
+    },
+    {
+      "firstName": "Mary",
+      "lastName": "Dark",
+      "age": "35",
+      "email": "m-come@yahoo.com",
+      "phoneNumber": "077446633",
+      "id": "89sYhDK"
+    },
+    {
+      "firstName": "Victoria",
+      "lastName": "Green",
+      "age": "50",
+      "email": "green@ukr.net",
+      "phoneNumber": "077724687",
+      "id": "ZJ57dme"
+    },
+    {
+      "firstName": "Alexander",
+      "lastName": "Boil",
+      "age": "66",
+      "email": "alex@gmail.com",
+      "phoneNumber": "0883237733",
+      "id": "l1h-mAo"
+    },
+    {
+      "firstName": "Maria",
+      "lastName": "Sun",
+      "age": "44",
+      "email": "sun@ukr.net",
+      "phoneNumber": "04468338",
+      "id": "zXw9IqG"
+    },
+    {
+      "firstName": "Elizabeth",
+      "lastName": "Gorr",
+      "age": "24",
+      "email": "gorr@gmail.com",
+      "phoneNumber": "04478463322",
+      "id": "gq_Ryx1"
+    },
+    {
+      "id": "rVzYjmQ",
+      "firstName": "Jack",
+      "lastName": "Big",
+      "age": "66",
+      "email": "whi-jack@gmail.com",
+      "phoneNumber": "0557743829"
+    },
+    {
+      "firstName": "Henry",
+      "lastName": "White",
+      "age": "44",
+      "email": "white@gmail.com",
+      "phoneNumber": "0553843829",
+      "id": "pIAjxNq"
+    },
+    {
+      "firstName": "David",
+      "lastName": "Cole",
+      "age": "56",
+      "email": "dave-c@ukr.net",
+      "phoneNumber": "0883847722",
+      "id": "hubXVwk"
+    },
+    {
+      "firstName": "Ronald",
+      "lastName": "Black",
+      "age": "33",
+      "email": "black@gmail.com",
+      "phoneNumber": "0994567788",
+      "id": "v7zATyz"
+    },
+    {
+      "firstName": "Kevin",
+      "lastName": "Fade",
+      "age": "22",
+      "email": "fade@yahoo.com",
+      "phoneNumber": "0774753878",
+      "id": "qC5ZhA7"
+    },
+    {
+      "firstName": "Sandra",
+      "lastName": "Gold",
+      "age": "34",
+      "email": "gold@ukr.net",
+      "phoneNumber": "0445673322",
+      "id": "PWC-zLb"
+    },
+    {
+      "firstName": "George",
+      "lastName": "Cat",
+      "age": "15",
+      "email": "ct-g@yahoo.com",
+      "phoneNumber": "0334859933",
+      "id": "f7iHtsn"
+    },
+    {
+      "firstName": "Melinda",
+      "lastName": "Table",
+      "age": "22",
+      "email": "t-m@gmail.com",
+      "phoneNumber": "0234859933",
+      "id": "jpXwQl_"
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Blue",
+      "age": "55",
+      "email": "bl@ukr.net",
+      "phoneNumber": "0449583736",
+      "id": "SSrmZ-f"
+    }
+  ]
+}
